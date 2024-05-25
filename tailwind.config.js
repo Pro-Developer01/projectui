@@ -14,7 +14,7 @@ export default {
       },
       colors:{
         "yellow":"#F3BE00",
-        "primery":"#039ea2",
+        "primery":"#029EA2",
         inputBorder: '#9F9F9F',
       },
       shadow: {

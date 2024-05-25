@@ -5,7 +5,7 @@ export default function Login() {
   return (
 
     <LoginDashBoard>
-      <figure className="w-loginwidth h-loginheight  bg-white rounded-xl p-8 dark:bg-slate-800"   >
+      <figure className="w-loginwidth h-loginheight  bg-white rounded-xl p-8 "   >
 
         <div className="pt-2 space-y-6">
           <blockquote className="flex items-center justify-center fontsize">
